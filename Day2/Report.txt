@@ -1,0 +1,2 @@
+The bar chart shows the total quantity of different food types. Main course has the highest sales., followed by snacks, dessrets, breakfast, beverages and appetizers have lower sales compared to main course and snacks
+
