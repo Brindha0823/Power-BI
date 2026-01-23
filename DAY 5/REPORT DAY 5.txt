@@ -1,0 +1,4 @@
+Power BI Dashboard Report
+This dashboard presents an analysis of product sales performance across different countries, states, and payment types. The total sum of sales is 51M, with a total quantity of 4,899 units sold and unit price totaling 11M INR. The dashboard also shows 1,000 sales channels contributing to overall revenue.
+Sales distribution by state is displayed using a pie chart, indicating that multiple states contribute almost equally to total sales. The product-wise and payment-type analysis reveals that Cash, Credit Card, Debit Card, and Net Banking are the major transaction methods. Line and bar charts show variations in sales count and average sales across different products.
+Overall, the dashboard helps identify top-performing products, preferred payment methods, and regional sales contributions, supporting better business decision-making.
