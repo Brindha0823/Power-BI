@@ -1,0 +1,60 @@
+Netflix Content Analysis Dashboard – Report
+
+1. Introduction
+   This report presents an analytical overview of Netflix’s content library using an interactive dashboard. The objective of the analysis is to understand content distribution, genre dominance, country-wise production, duration trends, and data completeness. The dashboard enables stakeholders to make informed decisions regarding content strategy and regional focus.
+
+2. Dataset Overview
+   The dataset includes information related to:
+       Show ID
+       Title
+       Genre
+       Country
+       Release Year
+       Rating
+       Duration
+       Director
+   The data has been cleaned and structured to support meaningful visual analysis.
+
+3. Key Performance Indicators (KPIs)
+   The dashboard highlights the following KPIs:
+   Count of Show ID:
+      Represents the total number of movies and TV shows available in the dataset.
+   Count of Rating:
+      Indicates the total number of rating categories used for Netflix content.
+   %GT Count of Director:
+      Shows the percentage of titles with director information, reflecting data quality and completeness.
+   Sum of Duration Value:
+      Displays the total combined duration of all Netflix content, representing the overall content volume.
+
+4. Genre-wise Analysis
+    4.1 Sum of Duration by Genre
+      Drama has the highest total duration, indicating longer content formats.
+      Comedy and Documentary follow, showing consistent audience demand.
+      Thriller, Action, and Horror contribute moderately.
+    4.2 Count of Titles by Genre
+      Drama dominates in terms of number of titles.
+      Documentary and Comedy have significant representation.
+      Sci-Fi, Horror, and Action appear in smaller proportions.
+   This indicates Netflix’s strong focus on storytelling and long-form content.
+
+5. Country-wise Content Distribution
+   A world map visual represents Netflix’s global content presence:
+   The United States and India are the largest contributors.
+   European countries such as France and Germany show moderate production.
+   Content is well distributed across multiple regions, reflecting Netflix’s global strategy.
+   A country slicer enables users to filter the analysis by selected countries for focused insights.
+
+6. Year-wise Content Trend
+   The year-wise duration analysis reveals:
+   A steady increase in content production in recent years.
+   Peak content volume between 2022 and 2024, showing aggressive expansion.
+   This growth reflects Netflix’s investment in original and regional content.
+
+7. Key Insights
+   Netflix heavily prioritizes Drama and Comedy genres.
+   Content production has increased significantly in recent years.
+   The platform maintains a strong global footprint, led by the USA and India.
+   Data completeness is relatively high, ensuring reliable analysis.
+
+8. Conclusion
+   The Netflix Content Analysis Dashboard provides a comprehensive view of Netflix’s content strategy. It highlights Netflix’s emphasis on high-demand genres, consistent global expansion, and continuous growth in content volume. These insights can support strategic decisions related to content investment, regional expansion, and audience targeting.
